@@ -2,14 +2,16 @@
 
 Project Info: https://docs.google.com/document/d/1bPW0cnGCiFa4WqvUQMlGo9-CPP-cTW2Q7-LGEA81hDw/edit
 
-Topic: Covid-19's impact on small businesses
+Topic: Covid-19's impact on travel
 
 Candidate Datasets:
-- https://fraser.stlouisfed.org/title/economic-impact-covid-19-6126/special-report-589638
-- https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3310022901
+- Turnstile 2020: https://data.ny.gov/Transportation/Turnstile-Usage-Data-2020/py8k-a8wg
+- Yellow Taxi 2020: https://data.cityofnewyork.us/Transportation/2020-Yellow-Taxi-Trip-Data/kxp8-n2sj
+- Green Taxi 2020: https://data.cityofnewyork.us/Transportation/2020-Green-Taxi-Trip-Data/pkmi-4kfn
+- US Flight Data 2015-2020: https://www.kaggle.com/bingecode/us-national-flight-data-2015-2020
+- COVID 19 cases by US State: https://github.com/nytimes/covid-19-data/blob/master/us-states.csv
 
 Ideas:
-- Data on sales/revenue or employees
 - Timeline based analysis
-- Differentiate between different business models
-
+- See how different travel is affected by COVID cases
+- See difference between intracity vs countrywide travel
